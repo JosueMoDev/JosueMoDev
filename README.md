@@ -1,6 +1,13 @@
-# 👋🏻 Hello I'm Jonas Morales
-### Fullstack Web Developer
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+  <h1> 👋🏻 Hello I'm Jonas Morales</>
+  <h3>Fullstack Web Developer </h3>
+  <svg fill="#DD0031" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.931 12.645h4.138l-2.07-4.908m0-7.737L.68 3.982l1.726 14.771L12 24l9.596-5.242L23.32 3.984 11.999.001zm7.064 18.31h-2.638l-1.422-3.503H8.996l-1.422 3.504h-2.64L12 2.65z"/></svg>
 
-<svg width="16" height="16" fill="#E0234E" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <path d="M8,14.667c-0.059,0-0.117-0.005-0.175-0.014C6.719,14.375,0,9.399,0,4.667C0,2.327,1.654,0.333,4,0.333c1.932,0,3.628,1.271,4,3.054c0.372-1.783,2.068-3.054,4-3.054c2.346,0,4,1.994,4,4.334c0,4.733-6.719,9.708-7.825,10.986C8.117,14.662,8.059,14.667,8,14.667z"/>
-</svg>
+</h3>
+</body>
+
+
+
