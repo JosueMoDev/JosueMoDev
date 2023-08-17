@@ -5,5 +5,5 @@
 ## I from El Salvador 🇸🇻, and  I would like to join and collaborate with some projects related to Angular or Nest JS
 
 ### Currently I'm learnig about 
- * Spring Boot with Java and Kotlin
+ * Flutter and Dart
  * Next JS and Signals
