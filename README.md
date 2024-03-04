@@ -32,6 +32,10 @@ I'm from El Salvador 🇸🇻, and I'm passionate about web and mobile developme
         <img src="dart-color.svg" alt="Dart" width="96" height="96"><br>
         Dart
       </td>
+       <td align="center" style="padding: 10px;">
+        <img src="swift.svg" alt="Swift" width="96" height="96"><br>
+        Swift
+      </td>
     </tr>
   </table>
 </div>
