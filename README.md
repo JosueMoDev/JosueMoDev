@@ -3,7 +3,7 @@
 ### My main focus lies in web development, where I've honed practical skills and a deep understanding of technologies like **Next.js** and **Nest JS**. Currently, I'm broadening my skill set to encompass mobile development, exploring new technologies such as **Flutter** and **Dart**, as well as delving into the **Apple ecosystem**.
 ### While I'm at the early stage of my professional career, my dedication and commitment to continuous learning enable me to tackle challenges with confidence and enthusiasm.
   
-# ❤️ My Favorites programming languages
+## ❤️ My Favorites programming languages
 <div align="center">
   <table style="border-collapse: collapse;">
   <td align="center" style="padding: 10px;">
@@ -21,41 +21,39 @@
   </table>
 </div>
 
-# 😍 Technologies I Work With
+### 😍 Technologies I Work With
 <div align="center">
   <table style="border-collapse: collapse; ">
     <tr>
       <td align="center" style="padding: 10px;">
-        <img src="angular-color.svg" alt="Angular" width="96" height="96"><br>
+        <img src="angular-color.svg" alt="Angular" width="75" height="75"><br>
         Angular
       </td>
       <td align="center" style="padding: 10px;">
-        <img src="nestjs-color.svg" alt="Nest" width="96" height="96"><br>
+        <img src="nestjs-color.svg" alt="Nest" width="75" height="75"><br>
         Nest JS
       </td>
       <td align="center" style="padding: 10px;">
-        <img src="nodedotjs-color.svg" alt="Node" width="96" height="96"><br>
+        <img src="nodedotjs-color.svg" alt="Node" width="75" height="75"><br>
         Node Js
       </td>
       <td align="center" style="padding: 10px;">
-        <img src="react-color.svg" alt="React" width="96" height="96"><br>
+        <img src="react-color.svg" alt="React" width="75" height="75"><br>
         React
       </td>
       <td align="center" style="padding: 10px;">
-        <img src="flutter-color.svg" alt="Flutter" width="96" height="96"><br>
+        <img src="flutter-color.svg" alt="Flutter" width="75" height="75"><br>
         Flutter
       </td>
-        <td align="center" style="padding: 10px;">
-        <img src="nextjs.svg" alt="Flutter" width="96" height="96"><br>
+      <td align="center" style="padding: 10px;">
+        <img src="nextjs.svg" alt="Next" width="75" height="75"><br>
         Next
       </td>
     </tr>
   </table>
 </div>
 
-
-
-## Currently Learning
+### Currently Learning
 - Flutter and Dart
 - Swift and SwiftUI
 
