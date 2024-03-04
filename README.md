@@ -14,12 +14,16 @@
         <img src="swift.svg" alt="Swift" width="170" height="170"><br>
         Swift
       </td>
+      <td align="center" style="padding: 10px;">
+        <img src="typescript.svg" alt="Swift" width="170" height="170"><br>
+        Swift
+      </td>
   </table>
 </div>
 
 # 😍 Technologies I Work With
 <div align="center">
-  <table style="border-collapse: collapse;">
+  <table style="border-collapse: collapse; ">
     <tr>
       <td align="center" style="padding: 10px;">
         <img src="angular-color.svg" alt="Angular" width="96" height="96"><br>
@@ -39,6 +43,10 @@
       </td>
       <td align="center" style="padding: 10px;">
         <img src="flutter-color.svg" alt="Flutter" width="96" height="96"><br>
+        Flutter
+      </td>
+        <td align="center" style="padding: 10px;">
+        <img src="nextjs.svg" alt="Flutter" width="96" height="96"><br>
         Flutter
       </td>
     </tr>
