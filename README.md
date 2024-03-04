@@ -1,10 +1,10 @@
-# 👋🏻 Hello, I'm Jonas Morales
-👨🏻‍💻 Software Engineer Developer
+# 👋🏻 Hello, I'm **Jonas Morales** 👨🏻‍💻, a passionate web and mobile developer based in El Salvador 🇸🇻.
 
-## About Me
-I'm from El Salvador 🇸🇻, and I'm passionate about web and mobile development. Currently, I'm focused on mastering Angular and Nest JS while also exploring new technologies like Flutter and Dart.
+### My main focus lies in web development, where I've honed practical skills and a deep understanding of technologies like **Next.js** and **Nest JS**. Currently, I'm broadening my skill set to encompass mobile development, exploring new technologies such as **Flutter** and **Dart**, as well as delving into the **Apple ecosystem**.
+### While I'm at the early stage of my professional career, my dedication and commitment to continuous learning enable me to tackle challenges with confidence and enthusiasm.
 
-### Technologies I Work With
+
+# Technologies I Work With
 <div align="center">
   <table style="border-collapse: collapse;">
     <tr>
@@ -42,7 +42,7 @@ I'm from El Salvador 🇸🇻, and I'm passionate about web and mobile developme
 
 
 
-### Currently Learning
+## Currently Learning
 - Flutter and Dart
 - Swift and SwiftUI
 
