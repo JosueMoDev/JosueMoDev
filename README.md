@@ -23,35 +23,36 @@
 
 ### 😍 Technologies I Work With
 <div align="center">
-  <table style="border-collapse: collapse; ">
+  <table style="border-collapse: collapse; background-color: transparent;">
     <tr>
-      <td align="center" style="padding: 10px;">
+      <td align="center" style="padding: 10px; border: none;">
         <img src="angular-color.svg" alt="Angular" width="75" height="75"><br>
         Angular
       </td>
-      <td align="center" style="padding: 10px;">
+      <td align="center" style="padding: 10px; border: none;">
         <img src="nestjs-color.svg" alt="Nest" width="75" height="75"><br>
         Nest JS
       </td>
-      <td align="center" style="padding: 10px;">
+      <td align="center" style="padding: 10px; border: none;">
         <img src="nodedotjs-color.svg" alt="Node" width="75" height="75"><br>
         Node Js
       </td>
-      <td align="center" style="padding: 10px;">
+      <td align="center" style="padding: 10px; border: none;">
         <img src="react-color.svg" alt="React" width="75" height="75"><br>
         React
       </td>
-      <td align="center" style="padding: 10px;">
+      <td align="center" style="padding: 10px; border: none;">
         <img src="flutter-color.svg" alt="Flutter" width="75" height="75"><br>
         Flutter
       </td>
-      <td align="center" style="padding: 10px;">
+      <td align="center" style="padding: 10px; border: none;">
         <img src="nextjs.svg" alt="Next" width="75" height="75"><br>
         Next
       </td>
     </tr>
   </table>
 </div>
+
 
 ### Currently Learning
 - Flutter and Dart
