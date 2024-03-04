@@ -16,7 +16,7 @@
       </td>
       <td align="center" style="padding: 10px;">
         <img src="typescript.svg" alt="Swift" width="170" height="170"><br>
-        Swift
+        TypeScript
       </td>
   </table>
 </div>
@@ -47,7 +47,7 @@
       </td>
         <td align="center" style="padding: 10px;">
         <img src="nextjs.svg" alt="Flutter" width="96" height="96"><br>
-        Flutter
+        Next
       </td>
     </tr>
   </table>
