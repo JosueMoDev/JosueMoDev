@@ -1,7 +1,6 @@
 # 👋🏻 Hello, I'm **Jonas Morales** 👨🏻‍💻, a passionate web and mobile developer based in El Salvador 🇸🇻.
 
-### My main focus lies in web development, where I've honed practical skills and a deep understanding of technologies like **Next.js** and **Nest JS**. Currently, I'm broadening my skill set to encompass mobile development, exploring new technologies such as **Flutter** and **Dart**, as well as delving into the **Apple ecosystem**.
-### While I'm at the early stage of my professional career, my dedication and commitment to continuous learning enable me to tackle challenges with confidence and enthusiasm.
+### My main focus is on web development, where I've developed practical skills and a deep understanding of technologies like Next.js and Nest JS. Currently, I'm expanding my skill set to include mobile development, exploring new technologies such as Flutter and Dart, as well as diving into the Apple ecosystem. While I'm still early in my professional career, my dedication and commitment to continuous learning allow me to tackle challenges with confidence and enthusiasm.###
   
 ## ❤️ My Favorites programming languages
 <div align="center">
