@@ -6,8 +6,8 @@
 <div align="center">
   <table style="border-collapse: collapse;">
   <td align="center" style="padding: 10px;">
-        <img src="dart-color.svg" alt="Dart" width="170" height="170"><br>
-        Dart
+        <img src="kotlin.svg" alt="Dart" width="170" height="170"><br>
+        Kotlin
       </td>
        <td align="center" style="padding: 10px;">
         <img src="swift.svg" alt="Swift" width="170" height="170"><br>
