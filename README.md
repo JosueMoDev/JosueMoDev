@@ -1,6 +1,6 @@
 # 👋🏻 Hello, I'm **Jonas Morales** 👨🏻‍💻, a passionate web and mobile developer based in El Salvador 🇸🇻.
 
-### My main focus is on web development, where I've developed practical skills and a deep understanding of technologies like Next.js and Nest JS. Currently, I'm expanding my skill set to include mobile development, exploring new technologies such as Flutter and Dart, as well as diving into the Apple ecosystem. While I'm still early in my professional career, my dedication and commitment to continuous learning allow me to tackle challenges with confidence and enthusiasm.
+### My main focus is on web development, where I've developed practical skills and a deep understanding of technologies like Angular, Nest.js, and Spring Boot. Currently, I'm expanding my skill set to include mobile development in the UI space, exploring new technologies like Kotlin and Jetpack Compose, as well as Swift and SwiftUI. While I'm still early in my professional career, my dedication and commitment to continuous learning allow me to tackle challenges with confidence and enthusiasm.
   
 ## ❤️ My Favorites programming languages
 <div align="center">
@@ -41,8 +41,8 @@
         React
       </td>
       <td align="center" style="padding: 10px; border: none;">
-        <img src="flutter-color.svg" alt="Flutter" width="75" height="75"><br>
-        Flutter
+        <img src="flutter-color.svg" alt="Springboot" width="75" height="75"><br>
+        Spring Boot
       </td>
       <td align="center" style="padding: 10px; border: none;">
         <img src="nextjs.svg" alt="Next" width="75" height="75"><br>
