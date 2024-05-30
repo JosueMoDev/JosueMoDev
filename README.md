@@ -41,7 +41,7 @@
         React
       </td>
       <td align="center" style="padding: 10px; border: none;">
-        <img src="flutter-color.svg" alt="Springboot" width="75" height="75"><br>
+        <img src="springboot.svg" alt="Springboot" width="75" height="75"><br>
         Spring Boot
       </td>
       <td align="center" style="padding: 10px; border: none;">
