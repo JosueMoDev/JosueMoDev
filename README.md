@@ -54,7 +54,7 @@
 
 
 ### Currently Learning
-- Flutter and Dart
+-  Kotlin and Jetpack Compose
 - Swift and SwiftUI
 
 I'm eager to collaborate on projects related to Angular or Nest JS. Feel free to reach out if you have any exciting opportunities!
