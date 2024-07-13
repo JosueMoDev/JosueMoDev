@@ -55,9 +55,13 @@
 </div>
 
 
-### Currently Learning
--  Kotlin and Jetpack Compose
-- Swift and SwiftUI
+### Actualmente Aprendiendo sobre
+-  Desarrollo movil con Kotlin y Jetpack Compose
+- Desarrollo movil con Swift and SwiftUI
+- Microservicios
+- Flutter
+- Arquitectura de software
+- Springboot con Java y Kotlin
 
 I'm eager to collaborate on projects related to Angular or Nest JS. Feel free to reach out if you have any exciting opportunities!
 
