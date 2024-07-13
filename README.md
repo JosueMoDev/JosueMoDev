@@ -1,8 +1,8 @@
 ## 👋🏻 Hola soy **Jonas Morales** 👨🏻‍💻 Desarrollador Full-stack. 
 ## un apasionado por la programación, con un gran interés en el desarrollo web, el desarrollo móvil y el frontend.
 
-###  Con 1 año de experiencia en la creación de interfaces web usando React, Angular. He desarrollado APIs con TypeScript y frameworks como Express y Nest. Mis proyectos personales y profesionales me han dotado de habilidades valiosas en la industria. Estoy comprometido con mi crecimiento y disfruto compartir mis conocimientos para enfrentar desafíos de manera efectiva.
-Estoy interesado en proyectos con Angular y Node.js, y busco un lugar que promueva mi crecimiento profesional..
+####  Con 1 año de experiencia en la creación de interfaces web usando React, Angular. He desarrollado APIs con TypeScript y frameworks como Express y Nest. Mis proyectos personales y profesionales me han dotado de habilidades valiosas en la industria. Estoy comprometido con mi crecimiento y disfruto compartir mis conocimientos para enfrentar desafíos de manera efectiva.
+#### Estoy interesado en proyectos con Angular y Node.js, y busco un lugar que promueva mi crecimiento profesional..
   
 ## ❤️ My Favorites programming languages
 <div align="center">
