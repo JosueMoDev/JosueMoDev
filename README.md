@@ -4,7 +4,7 @@
 ####  Con 1 año de experiencia en la creación de interfaces web usando React, Angular. He desarrollado APIs con TypeScript y frameworks como Express y Nest. Mis proyectos personales y profesionales me han dotado de habilidades valiosas en la industria. Estoy comprometido con mi crecimiento y disfruto compartir mis conocimientos para enfrentar desafíos de manera efectiva.
 #### Estoy interesado en proyectos con Angular y Node.js, y busco un lugar que promueva mi crecimiento profesional..
   
-## ❤️ My Favorites programming languages
+## ❤️ Mis lenguajes de programación favoritos
 <div align="center">
   <table style="border-collapse: collapse;">
   <td align="center" style="padding: 10px;">
@@ -22,7 +22,7 @@
   </table>
 </div>
 
-### 😍 Technologies I Work With
+### 😍 Mis Fameworks favoritos
 <div align="center">
   <table style="border-collapse: collapse; background-color: transparent;">
     <tr>
@@ -47,8 +47,8 @@
         Spring Boot
       </td>
       <td align="center" style="padding: 10px; border: none;">
-        <img src="nextjs.svg" alt="Next" width="75" height="75"><br>
-        Next
+        <img src="flutter.svg" alt="Next" width="75" height="75"><br>
+        Flutter
       </td>
     </tr>
   </table>
