@@ -4,7 +4,7 @@
 ####  Con 1 año de experiencia en la creación de interfaces web usando React, Angular. He desarrollado APIs con TypeScript y frameworks como Express y Nest. Mis proyectos personales y profesionales me han dotado de habilidades valiosas en la industria. Estoy comprometido con mi crecimiento y disfruto compartir mis conocimientos para enfrentar desafíos de manera efectiva.
 #### Estoy interesado en proyectos con Angular y Node.js, y busco un lugar que promueva mi crecimiento profesional..
   
-## ❤️ Mis lenguajes de programación favoritos
+### ❤️ Mis lenguajes de programación favoritos
 <div align="center">
   <table style="border-collapse: collapse;">
   <td align="center" style="padding: 10px;">
@@ -61,7 +61,5 @@
 - Microservicios
 - Flutter
 - Arquitectura de software
-- Springboot con Java y Kotlin
-
-I'm eager to collaborate on projects related to Angular or Nest JS. Feel free to reach out if you have any exciting opportunities!
+- Springboot con Java y Kotlin.
 
