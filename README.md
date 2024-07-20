@@ -14,8 +14,8 @@
   
 ## ❤️ Mis lenguajes de programación favoritos:
   <a href="https://www.typescriptlang.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="height:70px;"></a>&nbsp;&nbsp;
-  <a href="https://developer.apple.com/xcode/swiftui/" style="text-decoration: none;"><img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" style="height:70px;"></a>&nbsp;&nbsp;
-  <a href="https://kotlinlang.org/docs/home.html" style="text-decoration: none;"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" style="height:70px;"></a>
+  <a href="https://www.swift.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" style="height:70px;"></a>&nbsp;&nbsp;
+  <a href="https://kotlinlang.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" style="height:70px;"></a>
 
 
 # 💻 Tech Stack:
