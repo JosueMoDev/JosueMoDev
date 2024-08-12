@@ -13,13 +13,16 @@ Mi pasión por **Angular** y **Node.js** me impulsa a buscar proyectos que no so
 ###### 🌱 Microservicios
 ###### 🌱 Flutter
 ###### 🌱 Arquitectura de software
-###### 🌱 Spring Boot
+###### 🌱 Backend con Kotlin y Spring Boot
+###### 🌱 Golang
 
   
 ## ❤️ Mis lenguajes de programación favoritos:
-  <a href="https://www.typescriptlang.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="height:70px;"></a>&nbsp;&nbsp;
-  <a href="https://www.swift.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" style="height:70px;"></a>&nbsp;&nbsp;
-  <a href="https://kotlinlang.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" style="height:70px;"></a>
+  <a href="https://www.typescriptlang.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="height:55px;"></a>&nbsp;&nbsp;
+  <a href="https://www.swift.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" style="height:55px;"></a>&nbsp;&nbsp;
+  <a href="https://kotlinlang.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" style="height:55px;"></a>&nbsp;&nbsp;
+<a href="https://golang.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" style="height:55px;">
+</a>
 
 # 💻 Tecnologías favoritas:
 <a href="https://angular.dev/" style="text-decoration: none;"><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" style="height:30px;"></a>&nbsp;
