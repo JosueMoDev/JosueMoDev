@@ -1,28 +1,30 @@
-💫 About Me
-Hello! I’m a passionate and determined software developer with 1 year of experience in creating stunning and functional web interfaces using React and Angular. My experience extends to developing robust and efficient APIs with TypeScript, utilizing powerful frameworks like Express and NestJS.
+## 💫 About Me
+Hello! I’m a passionate and determined software developer with 1 year of experience in creating stunning and functional web interfaces using **React** and **Angular**. My experience extends to developing robust and efficient APIs with **TypeScript**, utilizing powerful frameworks like **Express** and **NestJS**.
 
-Each project, whether personal or professional, has offered me valuable opportunities to grow and refine my skills, allowing me to tackle challenges with creativity and problem-solving. I am committed to continuous development and excited to share my knowledge to achieve innovative solutions.
+Each project, whether personal or professional, has provided me with valuable opportunities to grow and refine my skills, allowing me to tackle challenges with creativity and problem-solving. I am committed to continuous development and excited to share my knowledge to achieve innovative solutions.
 
-My passion for Angular and Node.js drives me to seek projects that not only allow me to apply my skills but also offer opportunities for learning and growth. I am looking for an environment that fosters my professional development and allows me to contribute my energy and dedication.
+My passion for **Angular** and **Node.js** drives me to seek projects that not only allow me to apply my skills but also offer opportunities for learning and growth. I am looking for an environment that fosters my professional development and allows me to contribute my energy and dedication.
 
-Would you like to connect with me on LinkedIn? 👉🏻 
-📚 Currently Learning About:
-#####🌱 iOS Development with SwiftUI
-#####🌱 Microservices
-#####🌱 Flutter
-#####🌱 Software Architecture
-#####🌱 Backend Development with Kotlin and Spring Boot
-#####🌱 Golang
+#### Would you like to connect with me on LinkedIn? 👉🏻 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonas-morales-fullstack-dev)
+
+## 📚 Currently Learning About:
+###### 🌱 iOS Development with SwiftUI
+###### 🌱 Microservices
+###### 🌱 Flutter
+###### 🌱 Software Architecture
+###### 🌱 Backend Development with Kotlin and Spring Boot
+###### 🌱 Golang
+
 
   
-## ❤️ Mis lenguajes de programación favoritos:
+## ❤️ My Favorite Programming Languages:
   <a href="https://www.typescriptlang.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="height:55px;"></a>&nbsp;&nbsp;
   <a href="https://www.swift.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" style="height:55px;"></a>&nbsp;&nbsp;
   <a href="https://kotlinlang.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" style="height:55px;"></a>&nbsp;&nbsp;
 <a href="https://golang.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" style="height:55px;">
 </a>
 
-# 💻 Tecnologías favoritas:
+# 💻 Favorite Technologies and Frameworks:
 <a href="https://angular.dev/" style="text-decoration: none;"><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" style="height:30px;"></a>&nbsp;
 <a href="https://expressjs.com/" style="text-decoration: none;"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="height:30px;"></a>&nbsp;
 <a href="https://flutter.dev/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" style="height:30px;"></a>&nbsp;
