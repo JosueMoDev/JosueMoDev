@@ -1,20 +1,18 @@
-## 💫 Acerca de mí: 
-¡Hola! Soy un desarrollador full-stack lleno de pasión y determinación con 1 año de experiencia en la creación de interfaces web impresionantes y funcionales utilizando **React** y **Angular**. Mi experiencia se extiende al desarrollo de APIs robustas y eficientes con **TypeScript**, empleando frameworks poderosos como **Express** y **NestJS**.
+💫 About Me
+Hello! I’m a passionate and determined software developer with 1 year of experience in creating stunning and functional web interfaces using React and Angular. My experience extends to developing robust and efficient APIs with TypeScript, utilizing powerful frameworks like Express and NestJS.
 
-Cada proyecto, ya sea personal o profesional, me ha brindado oportunidades valiosas para crecer y perfeccionar mis habilidades, y me ha permitido enfrentar desafíos con creatividad y resolutividad. Estoy comprometido con mi desarrollo continuo y me entusiasma compartir mis conocimientos para lograr soluciones innovadoras.
+Each project, whether personal or professional, has offered me valuable opportunities to grow and refine my skills, allowing me to tackle challenges with creativity and problem-solving. I am committed to continuous development and excited to share my knowledge to achieve innovative solutions.
 
-Mi pasión por **Angular** y **Node.js** me impulsa a buscar proyectos que no solo me permitan aplicar mis habilidades, sino también seguir aprendiendo y creciendo. Estoy en la búsqueda de un entorno que impulse mi crecimiento profesional y me permita contribuir con mi energía y dedicación.
+My passion for Angular and Node.js drives me to seek projects that not only allow me to apply my skills but also offer opportunities for learning and growth. I am looking for an environment that fosters my professional development and allows me to contribute my energy and dedication.
 
-#### ¿Te gustaría conectar conmigo en LinkedIn? 👉🏻 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonas-morales-fullstack-dev)
-
-
-## 📚 Actualmente aprendiendo sobre:
-###### 🌱 Desarrollo iOS con SwiftUI
-###### 🌱 Microservicios
-###### 🌱 Flutter
-###### 🌱 Arquitectura de software
-###### 🌱 Backend con Kotlin y Spring Boot
-###### 🌱 Golang
+Would you like to connect with me on LinkedIn? 👉🏻 
+📚 Currently Learning About:
+#####🌱 iOS Development with SwiftUI
+#####🌱 Microservices
+#####🌱 Flutter
+#####🌱 Software Architecture
+#####🌱 Backend Development with Kotlin and Spring Boot
+#####🌱 Golang
 
   
 ## ❤️ Mis lenguajes de programación favoritos:
