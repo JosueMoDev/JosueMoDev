@@ -1,9 +1,9 @@
 ## 💫 About Me
-Hello! I’m a passionate and determined software developer with 1 year of experience in creating stunning and functional web interfaces using **React** and **Angular**. My experience extends to developing robust and efficient APIs with **TypeScript**, utilizing powerful frameworks like **Express** and **NestJS**.
+I am a software developer with over a year of experience in building and optimizing server-side applications and RESTful APIs using Node.js and TypeScript. My focus is on developing scalable and maintainable solutions, ensuring high quality and strict adherence to industry best practices. Additionally, I have experience working with Angular to create efficient and user-friendly front-end interfaces.
 
-Each project, whether personal or professional, has provided me with valuable opportunities to grow and refine my skills, allowing me to tackle challenges with creativity and problem-solving. I am committed to continuous development and excited to share my knowledge to achieve innovative solutions.
+I tackle complex challenges with a positive attitude and meticulous attention to detail, always striving for continuous improvement. My work is driven by a commitment to staying current with industry standards, which allows me to effectively support my team and deliver solid and efficient applications.
 
-My passion for **Angular** and **Node.js** drives me to seek projects that not only allow me to apply my skills but also offer opportunities for learning and growth. I am looking for an environment that fosters my professional development and allows me to contribute my energy and dedication.
+I am looking for opportunities where I can apply my skills in Angular,  Node.js and TypeScript.
 
 #### Would you like to connect with me on LinkedIn? 👉🏻 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonas-morales-fullstack-dev)
 
