@@ -10,10 +10,8 @@ I am looking for opportunities where I can apply my skills in Angular,  Node.js 
 ## 📚 Currently Learning About:
 ###### 🌱 iOS Development with SwiftUI
 ###### 🌱 Microservices
-###### 🌱 Flutter
 ###### 🌱 Software Architecture
 ###### 🌱 Backend Development with Kotlin and Spring Boot
-###### 🌱 Golang
 
 
   
@@ -21,13 +19,11 @@ I am looking for opportunities where I can apply my skills in Angular,  Node.js 
   <a href="https://www.typescriptlang.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="height:55px;"></a>&nbsp;&nbsp;
   <a href="https://www.swift.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" style="height:55px;"></a>&nbsp;&nbsp;
   <a href="https://kotlinlang.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" style="height:55px;"></a>&nbsp;&nbsp;
-<a href="https://golang.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" style="height:55px;">
 </a>
 
 # 💻 Favorite Technologies and Frameworks:
 <a href="https://angular.dev/" style="text-decoration: none;"><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" style="height:30px;"></a>&nbsp;
 <a href="https://expressjs.com/" style="text-decoration: none;"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="height:30px;"></a>&nbsp;
-<a href="https://flutter.dev/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" style="height:30px;"></a>&nbsp;
 <a href="https://nodejs.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="height:30px;"></a>&nbsp;
 <a href="https://nestjs.com/" style="text-decoration: none;"><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" style="height:30px;"></a>&nbsp;
 <a href="https://rxjs.dev/" style="text-decoration: none;"><img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" style="height:30px;"></a>&nbsp;
