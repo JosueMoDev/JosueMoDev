@@ -1,25 +1,26 @@
 ## 💫 About Me
-I am a software developer with over a year of experience in building and optimizing server-side applications and RESTful APIs using Node.js and TypeScript. My focus is on developing scalable and maintainable solutions, ensuring high quality and strict adherence to industry best practices. Additionally, I have experience working with Angular to create efficient and user-friendly front-end interfaces.
-
-I tackle complex challenges with a positive attitude and meticulous attention to detail, always striving for continuous improvement. My work is driven by a commitment to staying current with industry standards, which allows me to effectively support my team and deliver solid and efficient applications.
-
-I am looking for opportunities where I can apply my skills in Angular,  Node.js and TypeScript.
+Fullstack Developer with 2 years of experience in Node.js and TypeScript. I specialize in scalable and
+optimized applications, following quality standards and best practices. With frontend experience, I deliver
+complete and efficient solutions, both on the server and client side. My approach is to solve complex
+problems with a positive attitude, attention to detail, and a commitment to continuous improvement,
+always staying up to date with industry best practices.
 
 #### Would you like to connect with me on LinkedIn? 👉🏻 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonas-morales-fullstack-dev)
 
 ## 📚 Currently Learning About:
-###### 🌱 iOS Development with SwiftUI
-###### 🌱 Microservices
-###### 🌱 Software Architecture
-###### 🌱 Backend Development with Kotlin and Spring Boot
+###### 🌱 Reactive Programming with RxJS
+###### 🌱 Microservices Architecture
+###### 🌱 Software Architecture Principles
+###### 🌱 Backend Development using Spring Boot
 
 
   
-## ❤️ My Favorite Programming Languages:
-  <a href="https://www.typescriptlang.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="height:55px;"></a>&nbsp;&nbsp;
-  <a href="https://www.swift.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" style="height:55px;"></a>&nbsp;&nbsp;
-  <a href="https://kotlinlang.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" style="height:55px;"></a>&nbsp;&nbsp;
-</a>
+## 🔨 Programming languages I use:
+ <a href="https://www.typescriptlang.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="height:55px;"></a>&nbsp;&nbsp;
+ <a href="https://www.php.net/" style="text-decoration: none;"><img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" style="height:55px;"></a>&nbsp;&nbsp;
+ <a href="https://www.java.com/" style="text-decoration: none;"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" style="height:55px;"></a>&nbsp;&nbsp; 
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 💻 Favorite Technologies and Frameworks:
 <a href="https://angular.dev/" style="text-decoration: none;"><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" style="height:30px;"></a>&nbsp;
@@ -38,7 +39,8 @@ I am looking for opportunities where I can apply my skills in Angular,  Node.js 
 <a href="https://reactjs.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="height:30px;"></a>&nbsp;
 <a href="https://www.docker.com/" style="text-decoration: none;"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" style="height:30px;"></a>&nbsp;
 <a href="https://graphql.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" style="height:30px;"></a>&nbsp;
-<a href="https://developer.apple.com/xcode/swiftui/" style="text-decoration: none;"><img src="https://img.shields.io/badge/swift_Ui-0063E5?style=for-the-badge&logo=swift&logoColor=white" style="height:30px;"></a>
+<a href="https://laravel.com/" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" style="height:30px;"></a>&nbsp;
 <a href="https://nextjs.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" style="height:30px;"></a>
 <a href="https://typeorm.io/" style="text-decoration: none;"><img src="https://img.shields.io/badge/typeorm-FD0A02?style=for-the-badge&logo=typeorm&logoColor=white" style="height:30px;"></a>
 <a href="https://hibernate.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" style="height:30px;"></a>
