@@ -1,9 +1,9 @@
 ## 💫 About Me
-Fullstack Developer with 2 years of experience in Node.js and TypeScript. I specialize in scalable and
-optimized applications, following quality standards and best practices. With frontend experience, I deliver
-complete and efficient solutions, both on the server and client side. My approach is to solve complex
-problems with a positive attitude, attention to detail, and a commitment to continuous improvement,
-always staying up to date with industry best practices.
+I'm a passionate full-stack web and mobile developer with 3+ years of experience, specializing in modern application development using TypeScript. My tech stack includes Angular, Ionic, React Native, Flutter, and Next.js on the frontend, and Nest.js and Express on the backend.
+
+During this time, I’ve worked on projects across different industries—both starting from scratch and enhancing existing systems with new features and bug fixes. I'm committed to writing clean, maintainable code and delivering high-quality solutions that prioritize performance and user experience.
+
+I’m always excited to explore new technologies and take on challenges that push me to grow as a developer and problem-solver.
 
 #### Would you like to connect with me on LinkedIn? 👉🏻 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonas-morales-fullstack-dev)
 
