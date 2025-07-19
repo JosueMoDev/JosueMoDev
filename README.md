@@ -33,7 +33,6 @@ I’m always excited to explore new technologies and take on challenges that pus
 <a href="https://www.postgresql.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" style="height:30px;"></a>&nbsp;
 <a href="https://www.prisma.io/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" style="height:30px;"></a>&nbsp;
 <a href="https://www.mongodb.com/" style="text-decoration: none;"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" style="height:30px;"></a>&nbsp;
-<a href="https://www.mysql.com/" style="text-decoration: none;"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" style="height:30px;"></a>&nbsp;
 <a href="https://git-scm.com/" style="text-decoration: none;"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="height:30px;"></a>&nbsp;
 <a href="https://kubernetes.io/" style="text-decoration: none;"><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" style="height:30px;"></a>&nbsp;
 <a href="https://reactjs.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="height:30px;"></a>&nbsp;
@@ -42,6 +41,8 @@ I’m always excited to explore new technologies and take on challenges that pus
 <a href="https://laravel.com/" style="text-decoration: none;">
 <a href="https://nextjs.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" style="height:30px;"></a>
 <a href="https://hibernate.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" style="height:30px;"></a>
+<a href="https://developer.android.com/jetpack/compose" style="text-decoration: none;"><img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" style="height:30px;"></a>
+<a href="https://flutter.dev/" style="text-decoration: none;"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" style="height:30px;"></a>
 
 
 # 📊 GitHub Stats:
