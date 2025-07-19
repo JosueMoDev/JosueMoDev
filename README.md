@@ -17,7 +17,7 @@ I’m always excited to explore new technologies and take on challenges that pus
   
 ## 🔨 Programming languages I use:
  <a href="https://www.typescriptlang.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="height:55px;"></a>&nbsp;&nbsp;
- <a href="https://www.php.net/" style="text-decoration: none;"><img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" style="height:55px;"></a>&nbsp;&nbsp;
+ <a href="https://kotlinlang.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" style="height:55px;"></a>&nbsp;&nbsp;
  <a href="https://www.java.com/" style="text-decoration: none;"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" style="height:55px;"></a>&nbsp;&nbsp; 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
