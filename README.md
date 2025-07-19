@@ -40,9 +40,7 @@ I’m always excited to explore new technologies and take on challenges that pus
 <a href="https://www.docker.com/" style="text-decoration: none;"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" style="height:30px;"></a>&nbsp;
 <a href="https://graphql.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" style="height:30px;"></a>&nbsp;
 <a href="https://laravel.com/" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" style="height:30px;"></a>&nbsp;
 <a href="https://nextjs.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" style="height:30px;"></a>
-<a href="https://typeorm.io/" style="text-decoration: none;"><img src="https://img.shields.io/badge/typeorm-FD0A02?style=for-the-badge&logo=typeorm&logoColor=white" style="height:30px;"></a>
 <a href="https://hibernate.org/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" style="height:30px;"></a>
 
 
